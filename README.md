@@ -36,16 +36,16 @@ I’m a data professional passionate about **building scalable data solutions**,
 ---
 ## 📊 Featured Projects   
 
-### 🧪 1. [Cricket_Insights_with-AI-ML]  
+### 🧪 1. Cricket_Insights_with-AI-ML 
 [GitHub Repo](https://github.com/AjinkyaThokal/Cricket_Insights_with-AI-ML)   
 
-### 📈 2. [Predicting-Loan-Defaults-Using-Machine-Learning-Models]  
+### 📈 2. Predicting-Loan-Defaults-Using-Machine-Learning-Models  
 [GitHub Repo](https://github.com/AjinkyaThokal/Predicting-Loan-Defaults-Using-Machine-Learning-Models)   
 
-### 🤖 3. [Residential_Real_Estate_Analysis]  
+### 🤖 3. Residential_Real_Estate_Analysis  
 [GitHub Repo](https://github.com/AjinkyaThokal/Residential_Real_Estate_Analysis)  
 
-### 🧪 4. [Comprehensive-Analysis-of-Policing-Data]  
+### 🧪 4. Comprehensive-Analysis-of-Policing-Data  
 [GitHub Repo](https://github.com/AjinkyaThokal/Comprehensive-Analysis-of-Policing-Data) 
 
 ---
