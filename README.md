@@ -33,7 +33,7 @@ I’m a data professional passionate about **building scalable data solutions**,
 - **Soft Skills**:  
   `Problem Solving` | `Stakeholder Communication` | `Team Collaboration` | `Self-Directed Learning` | `Attention to Detail`
 ---
-![Banner](Banner.jpeg)
+<img src="Banner.jpeg" alt="Banner" width="700"/>
 
 ---
 ## 📊 Featured Projects   
